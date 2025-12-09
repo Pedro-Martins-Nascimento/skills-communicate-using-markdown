@@ -21,3 +21,14 @@ function mostrarMensagem() {
 
 mostrarMensagem();
 ```
+
+# Aprendendo Markdown
+
+## Tarefas do Curso
+Abaixo está uma lista de tarefas que vou completar durante o curso de introdução ao Markdown no GitHub:
+
+- [ ] Criar e editar arquivos Markdown
+- [ ] Usar imagens e títulos
+- [ ] Adicionar blocos de código
+- [ ] Criar listas e listas de tarefas
+- [ ] Finalizar o pull request do curso
